@@ -59,7 +59,7 @@ Siamo un piccolo gruppo di amici che ha deciso di unire le proprie competenze pe
 <img src="https://img.shields.io/badge/GitHub-rbrtsl-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/paper0040">
+<a href="https://github.com/paper040">
 <img src="https://img.shields.io/badge/GitHub-paper0040-7AA2F7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
